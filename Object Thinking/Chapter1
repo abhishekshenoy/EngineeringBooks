@@ -1,1 +1,15 @@
-Chapter1
+1) Data Model
+2) UML
+3) Class Responsibility Collaborator
+
+
+Five significant software development innovations and trends have gained prominence in the past 50 years:
+1) datacentrism 
+2) software engineering 
+3) object orientation
+4) patterns 
+5) extreme programming
+
+
+Class Responsibility Collaborator:
+The format of the card was simple: a class name appeared at the upper left corner, and two column headers, Responsibility and Collaborator, appeared on the next line of the card.

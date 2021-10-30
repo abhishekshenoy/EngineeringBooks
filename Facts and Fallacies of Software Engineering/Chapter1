@@ -1,3 +1,52 @@
 Good management is more important than good technology
 
-People , tools, techniques, and process
+
+The most important factor in software work is not the tools and techniques used by the programmers, but rather the quality of the programmers themselves.
+
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+
+Adding people to a late project makes it later.
+
+The working environment has a profound impact on productivity and product quality.
+
+Hype is the plague on the house of software. Most software tool and technique improvements account for about a 5 to 35 percent increase in productivity and quality. But at one time or another, most of those same improvements have been claimed by someone to have “order of magnitude” benefits.
+
+Learning a new tool or technique actually lowers programmer productivity and product quality initially. The eventual benefit is achieved only after this learning curve is overcome. Therefore, it is worth adopting new tools and techniques, but only (a) if their value is seen realistically and (b) if patience is used in measuring benefits.
+
+
+Software developers talk a lot about tools. They evaluate quite a few, buy a fair number, and use practically none.
+
+One of the two most common causes of runaway projects is poor estimation.
+	The two causes of runaways that stand head and shoulders above all others are poor (usually optimistic) estimation and unstable requirements
+
+
+Most software estimates are performed at the beginning of the life cycle. This makes sense until we realize that estimates are obtained before the requirements are defined and thus before the problem is understood. Estimation, therefore, usually occurs at the wrong time.
+
+Most software estimates are made either by upper management or by marketing, not by the people who will build the software or their managers. Estimation is, therefore, done by the wrong people.
+
+Software estimates are rarely adjusted as the project proceeds. Thus those estimates done at the wrong time by the wrong people are usually not corrected.
+
+Since estimates are so faulty, there is little reason to be concerned when software projects do not meet estimated targets. But everyone is concerned anyway.
+
+There is a disconnect between management and their programmers. In one research study of a project that failed to meet its estimates and was seen by its management as a failure, the technical participants saw it as the most successful project they had ever worked on.
+
+The answer to a feasibility study is almost always “yes.”
+
+Reuse-in-the-small (libraries of subroutines) began nearly 50 years ago and is a well-solved problem.
+
+Reuse-in-the-large (components) remains a mostly unsolved problem, even though everyone agrees it is important and desirable.
+
+Reuse-in-the-large works best in families of related systems and thus is domain-dependent. This narrows the potential applicability of reuse-in-the-large.
+
+There are two “rules of three” in reuse: (a) It is three times as difficult to build reusable components as single use components, and (b) a reusable component should be tried out in three different applications before it will be sufficiently general to accept into a reuse library.
+
+
+Modification of reused code is particularly error-prone. If more than 20 to 25 percent of a component is to be revised, it is more efficient and effective to rewrite it from scratch.
+
+Design pattern reuse is one solution to the problems inherent in code reuse.
+
+
+For every 25 percent increase in problem complexity, there is a 100 percent increase in complexity of the software solution. That’s not a condition to try to change (even though reducing complexity is always a desirable thing to do); that’s just the way it is.
+
+
+Eighty percent of software work is intellectual. A fair amount of it is creative. Little of it is clerical.
