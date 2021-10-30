@@ -1,0 +1,16 @@
+Selecting a language
+1)Pragmatics : Mature libraries, compatibility with external systems
+2)Prformance (excuse than a reason)
+3)Philosophy
+
+On Decomposition by David Parnas : Two conceptual abstractions for decomposing complex systems for the purposes of developing software
+1) structured design : top-down functional decomposition
+2) design decision hiding : Problem or problem domain is modeled and decomposed without consideration of how the component parts of that domain or problem would be implemented
+
+1)Domain-reflective customer model : One to many mapping
+2)Relational customer model : First fetch the customer id and then search the address table for the customer id
+
+
+
+
+
